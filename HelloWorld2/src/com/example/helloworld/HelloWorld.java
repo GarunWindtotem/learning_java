@@ -18,6 +18,12 @@ public class HelloWorld {
         boolean isNice = true;
         System.out.println(herName + " is nice= " + isNice);
 
+        byte number1 = 34;
+        byte number2 = 27;
+        float number3 = (1/3)*(number1 + number2);
+
+        System.out.println("number3= " + number3);
+
         // primitive Types
         // ---------------------------------------------
         // Type   bytes     Range               Example
