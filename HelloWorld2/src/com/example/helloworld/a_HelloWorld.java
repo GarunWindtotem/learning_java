@@ -1,6 +1,6 @@
 package com.example.helloworld;
 
-public class HelloWorld {
+public class a_HelloWorld {
     public static void main(String[] args) {
         System.out.println("Hello JDK11 World\n");
 
@@ -25,6 +25,7 @@ public class HelloWorld {
         System.out.println("number3= " + number3);
 
         // primitive Types
+        // numbers, characters, booleans
         // ---------------------------------------------
         // Type   bytes     Range               Example
         // byte     1       [-128, 127]          42
@@ -35,6 +36,9 @@ public class HelloWorld {
         // double   8       [~10E-324, ~10E308]  1.42e280D
         // char     2       A, B, C, ...
         // boolean  1       true, false
+
+        // reference (complex objects)
+        // date, mail messages
 
     }
 }
