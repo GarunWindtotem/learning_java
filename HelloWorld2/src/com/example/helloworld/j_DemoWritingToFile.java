@@ -5,7 +5,7 @@ import java.io.FileWriter;
 import java.io.IOException;
 import java.io.PrintWriter;
 
-public class DemoWritingToFile {
+public class j_DemoWritingToFile {
     // main
     public static void main(String[] args) throws IOException {
 
@@ -19,9 +19,14 @@ public class DemoWritingToFile {
 
         // 3 - create a print writer class
         PrintWriter pw = new PrintWriter(fw);
-        int z = 100;
+        int z = 10_000;    // loop - nicht mehr als 100 000 000 nehmen (file > 2gb)
+        double random;
+
+        pw.println("x_axis");
+
         for (int i = 0; i<=z; i++) {
-            pw.println("Line " + i + " some text");
+            random = Math.random();
+            pw.println(random);
         }
         pw.close();
 
