@@ -7,18 +7,16 @@ public class l_reading_input {
     //main
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
-        System.out.print("Age: ");
+        System.out.print("\n<1. Input>\nEnter your age : ");
         byte age = input.nextByte();
-        System.out.println("Using nextByte() - you are: " + age + " years old\n");
-        String str1 = input.nextLine();     // Enter erzeugt \n, 
+        input.nextLine();     // consumes the \n character
+        System.out.print("Enter your name: ");
+        String name1 = input.nextLine().trim();
 
-        System.out.print("Names1: ");
-        String name1 = input.nextLine();
-        System.out.println("Using nextLine() - you are: " + name1 + "\n");
-
-        System.out.print("Names2: ");
-        String name2 = input.nextLine();
-        System.out.println("Using nextLine() - you are: " + name2);
+        System.out.println("\n<2. Output>\n<Using nextByte()>\nyou are " + age + " years old");
+        System.out.println("\n<Using nextLine()>\nyou are: " + name1 + " and you are " + age + " years old.");
+        String str = String.format("\n<Using nextLine() and String.format>\nyou are: %s and you are %d years old.", name1, age);
+        System.out.println(str);
         input.close();
     }
 }
