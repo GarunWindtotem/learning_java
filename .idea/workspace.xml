@@ -5,53 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="11d3369b-e5d2-43cd-9f84-3c8c9463d38e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/JavaBasics/src/com/example/basics/p_if_statements.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaBasics/src/com/example/basics/q_Ternary_Operator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/learning_java.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/learning_java.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HelloWorld2/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HelloWorld2/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HelloWorld2/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HelloWorld2/.idea/uiDesigner.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HelloWorld2/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HelloWorld2/HelloWorld2.iml" beforeDir="false" afterPath="$PROJECT_DIR$/JavaBasics/JavaBasics.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HelloWorld2/Histogram_1 000 000.png" beforeDir="false" afterPath="$PROJECT_DIR$/JavaBasics/Histogram_1 000 000.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HelloWorld2/Histogram_10 000 000.png" beforeDir="false" afterPath="$PROJECT_DIR$/JavaBasics/Histogram_10 000 000.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HelloWorld2/Histogram_100 000 000.png" beforeDir="false" afterPath="$PROJECT_DIR$/JavaBasics/Histogram_100 000 000.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HelloWorld2/Histogram_100 000.png" beforeDir="false" afterPath="$PROJECT_DIR$/JavaBasics/Histogram_100 000.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HelloWorld2/Histogram_10000.png" beforeDir="false" afterPath="$PROJECT_DIR$/JavaBasics/Histogram_10000.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HelloWorld2/out.txt" beforeDir="false" afterPath="$PROJECT_DIR$/JavaBasics/out.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HelloWorld2/out/production/HelloWorld2/com/example/helloworld/a_HelloWorld.class" beforeDir="false" afterPath="$PROJECT_DIR$/JavaBasics/out/production/HelloWorld2/com/example/helloworld/a_HelloWorld.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HelloWorld2/out/production/HelloWorld2/com/example/helloworld/b_reference_types.class" beforeDir="false" afterPath="$PROJECT_DIR$/JavaBasics/out/production/HelloWorld2/com/example/helloworld/b_reference_types.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HelloWorld2/out/production/HelloWorld2/com/example/helloworld/c_reference_strings.class" beforeDir="false" afterPath="$PROJECT_DIR$/JavaBasics/out/production/HelloWorld2/com/example/helloworld/c_reference_strings.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HelloWorld2/out/production/HelloWorld2/com/example/helloworld/d_reference_arrays.class" beforeDir="false" afterPath="$PROJECT_DIR$/JavaBasics/out/production/HelloWorld2/com/example/helloworld/d_reference_arrays.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HelloWorld2/out/production/HelloWorld2/com/example/helloworld/e_reference_MultiDimArrays.class" beforeDir="false" afterPath="$PROJECT_DIR$/JavaBasics/out/production/HelloWorld2/com/example/helloworld/e_reference_MultiDimArrays.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HelloWorld2/out/production/HelloWorld2/com/example/helloworld/f_constants.class" beforeDir="false" afterPath="$PROJECT_DIR$/JavaBasics/out/production/HelloWorld2/com/example/helloworld/f_constants.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HelloWorld2/out/production/HelloWorld2/com/example/helloworld/g_arithmetic_expressions.class" beforeDir="false" afterPath="$PROJECT_DIR$/JavaBasics/out/production/HelloWorld2/com/example/helloworld/g_arithmetic_expressions.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HelloWorld2/out/production/HelloWorld2/com/example/helloworld/h_casting.class" beforeDir="false" afterPath="$PROJECT_DIR$/JavaBasics/out/production/HelloWorld2/com/example/helloworld/h_casting.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HelloWorld2/out/production/HelloWorld2/com/example/helloworld/i_Math_Class.class" beforeDir="false" afterPath="$PROJECT_DIR$/JavaBasics/out/production/HelloWorld2/com/example/helloworld/i_Math_Class.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HelloWorld2/out/production/HelloWorld2/com/example/helloworld/j_DemoWritingToFile.class" beforeDir="false" afterPath="$PROJECT_DIR$/JavaBasics/out/production/HelloWorld2/com/example/helloworld/j_DemoWritingToFile.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HelloWorld2/out/production/HelloWorld2/com/example/helloworld/k_format_numbers.class" beforeDir="false" afterPath="$PROJECT_DIR$/JavaBasics/out/production/HelloWorld2/com/example/helloworld/k_format_numbers.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HelloWorld2/out/production/HelloWorld2/com/example/helloworld/l_reading_input.class" beforeDir="false" afterPath="$PROJECT_DIR$/JavaBasics/out/production/HelloWorld2/com/example/helloworld/l_reading_input.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HelloWorld2/out/production/HelloWorld2/com/example/helloworld/m_project_mortgage_calculator.class" beforeDir="false" afterPath="$PROJECT_DIR$/JavaBasics/out/production/HelloWorld2/com/example/helloworld/m_project_mortgage_calculator.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HelloWorld2/out/production/HelloWorld2/com/example/helloworld/n_comparison_operator.class" beforeDir="false" afterPath="$PROJECT_DIR$/JavaBasics/out/production/HelloWorld2/com/example/helloworld/n_comparison_operator.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HelloWorld2/out/production/HelloWorld2/com/example/helloworld/o_logical_operator.class" beforeDir="false" afterPath="$PROJECT_DIR$/JavaBasics/out/production/HelloWorld2/com/example/helloworld/o_logical_operator.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HelloWorld2/src/com/example/helloworld/a_HelloWorld.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaBasics/src/com/example/basics/a_HelloWorld.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HelloWorld2/src/com/example/helloworld/b_reference_types.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaBasics/src/com/example/basics/b_reference_types.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HelloWorld2/src/com/example/helloworld/c_reference_strings.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaBasics/src/com/example/basics/c_reference_strings.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HelloWorld2/src/com/example/helloworld/d_reference_arrays.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaBasics/src/com/example/basics/d_reference_arrays.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HelloWorld2/src/com/example/helloworld/e_reference_MultiDimArrays.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaBasics/src/com/example/basics/e_reference_MultiDimArrays.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HelloWorld2/src/com/example/helloworld/f_constants.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaBasics/src/com/example/basics/f_constants.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HelloWorld2/src/com/example/helloworld/g_arithmetic_expressions.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaBasics/src/com/example/basics/g_arithmetic_expressions.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HelloWorld2/src/com/example/helloworld/h_casting.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaBasics/src/com/example/basics/h_casting.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HelloWorld2/src/com/example/helloworld/i_Math_Class.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaBasics/src/com/example/basics/i_Math_Class.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HelloWorld2/src/com/example/helloworld/j_DemoWritingToFile.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaBasics/src/com/example/basics/j_DemoWritingToFile.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HelloWorld2/src/com/example/helloworld/k_format_numbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaBasics/src/com/example/basics/k_format_numbers.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HelloWorld2/src/com/example/helloworld/l_reading_input.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaBasics/src/com/example/basics/l_reading_input.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HelloWorld2/src/com/example/helloworld/m_project_mortgage_calculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaBasics/src/com/example/basics/m_project_mortgage_calculator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HelloWorld2/src/com/example/helloworld/n_comparison_operator.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaBasics/src/com/example/basics/n_comparison_operator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HelloWorld2/src/com/example/helloworld/o_logical_operator.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaBasics/src/com/example/basics/o_logical_operator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaBasics/src/com/example/basics/q_Ternary_Operator.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaBasics/src/com/example/basics/q_Ternary_Operator.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -79,17 +34,17 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "D:/Github/learning_java",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "editor.preferences.tabs"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/Github/learning_java&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.tabs&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager" selected="Application.p_if_statements">
     <configuration name="o_logical_operator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.example.basics.o_logical_operator" />
@@ -120,7 +75,6 @@
     <recent_temporary>
       <list>
         <item itemvalue="Application.p_if_statements" />
-        <item itemvalue="Application.com.example.basics.o_logical_operator" />
       </list>
     </recent_temporary>
   </component>

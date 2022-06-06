@@ -19,7 +19,7 @@ public class q_Ternary_Operator {
 
         // good: Ternary Operator
         //     variable       condition         true      false
-        String className2 = (income>100_000) ? "First" : "Economy";
+        String className3 = (income>100_000) ? "First" : "Economy";
 
     }
 }
