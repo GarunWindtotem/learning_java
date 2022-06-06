@@ -14,7 +14,7 @@ public class k_format_numbers {
         NumberFormat currency = NumberFormat.getCurrencyInstance();
         // datatype variable    class   method        input
         String result_currency = currency.format(1234567.846);
-        System.out.println("result_currency= " + result_currency);
+        System.out.println("\nresult_currency= " + result_currency);
 
         // class     variable  class       factory method
         NumberFormat percent = NumberFormat.getPercentInstance();
@@ -43,8 +43,8 @@ public class k_format_numbers {
         System.out.println("");
 
         // regional representation of currency Formats - thousands, decimal separator
-        NumberFormat nf_currency_us = NumberFormat.getCurrencyInstance(Locale.GERMANY);
-        NumberFormat nf_currency_ger = NumberFormat.getCurrencyInstance(Locale.US);
+        NumberFormat nf_currency_us = NumberFormat.getCurrencyInstance(Locale.US);
+        NumberFormat nf_currency_ger = NumberFormat.getCurrencyInstance(Locale.GERMANY);
         String result_currency_us = nf_currency_us.format(number);
         String result_currency_ger = nf_currency_ger.format(number);
         System.out.println("currency US " + number + " : " + result_currency_us);

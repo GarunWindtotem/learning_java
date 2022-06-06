@@ -18,5 +18,14 @@ public class l_reading_input {
         String str = String.format("\n<Using nextLine() and String.format>\nyou are: %s and you are %d years old.", name1, age);
         System.out.println(str);
         input.close();
+
+        // String.format()
+        // %s String
+        // %d Decimal Integer (byte, short, int, long, bigint)
+        // %e decimal number  in scientific notation
+        // %f decimal number
+        // %t Date / Time
+        // %c Char
+
     }
 }
