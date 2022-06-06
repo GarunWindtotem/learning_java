@@ -5,8 +5,24 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="11d3369b-e5d2-43cd-9f84-3c8c9463d38e" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/learning_java.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/learning_java.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaBasics/src/com/example/basics/q_Ternary_Operator.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaBasics/src/com/example/basics/q_Ternary_Operator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/learning_java/com/example/basics/a_HelloWorld.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/learning_java/com/example/basics/b_reference_types.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/learning_java/com/example/basics/c_reference_strings.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/learning_java/com/example/basics/d_reference_arrays.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/learning_java/com/example/basics/e_reference_MultiDimArrays.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/learning_java/com/example/basics/f_constants.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/learning_java/com/example/basics/g_arithmetic_expressions.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/learning_java/com/example/basics/h_casting.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/learning_java/com/example/basics/i_Math_Class.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/learning_java/com/example/basics/j_DemoWritingToFile.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/learning_java/com/example/basics/k_format_numbers.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/learning_java/com/example/basics/l_reading_input.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/learning_java/com/example/basics/m_project_mortgage_calculator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/learning_java/com/example/basics/n_comparison_operator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/learning_java/com/example/basics/o_logical_operator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/learning_java/com/example/basics/p_if_statements.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,7 +61,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.tabs&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.p_if_statements">
+  <component name="RunManager" selected="Application.q_Ternary_Operator">
     <configuration name="o_logical_operator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.example.basics.o_logical_operator" />
       <module name="learning_java" />
@@ -72,8 +88,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="q_Ternary_Operator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.basics.q_Ternary_Operator" />
+      <module name="learning_java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.basics.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.q_Ternary_Operator" />
         <item itemvalue="Application.p_if_statements" />
       </list>
     </recent_temporary>
